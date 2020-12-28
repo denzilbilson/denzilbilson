@@ -19,7 +19,7 @@ Whether silly games, computative algorithms, low-level code, or software enginee
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/denzilbilson/denzilbilson.svg)](http://hits.dwyl.com/denzilbilson/denzilbilson)
+[![HitCount](http://hits.dwyl.com/denzilbilson/denzilbilson.svg)](http://hits.dwyl.com/denzilbilson/denzilbilson) </br>
 <i>Follow my growth as I level up!</i><br>
 
 
