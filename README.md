@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Science student at CU-Boulder</h3>
 <div align="center">
 <h5 align="center">My Name is Denzil Ekow Bilson, and I am an avid programmer. </h5><br>
-Whether silly games, computative algorithms, low-level code, or software engineering I love to build, code, and create.<br>
+Whether silly games, computative algorithms, low-level code, or software engineering, I love to build, code, and create.<br>
 </div>
   
 ---
