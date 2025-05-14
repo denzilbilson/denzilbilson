@@ -1,6 +1,6 @@
 
 <h1 align="center">Denzil Ekow Bilson</h1>
-<h3 align="center">NLP Graduate Researcher at CU-Boulder</h3>
+<h3 align="center">NLP Graduate Researcher at CU Boulder</h3>
 <div align="center">
 <h5 align="center">My Name is Denzil Ekow Bilson, and I am an avid programmer </h5>
 <br>
